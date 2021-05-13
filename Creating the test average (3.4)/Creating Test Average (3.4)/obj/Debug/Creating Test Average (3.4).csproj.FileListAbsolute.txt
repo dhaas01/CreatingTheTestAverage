@@ -1,0 +1,10 @@
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\bin\Debug\Creating Test Average (3.4).exe.config
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\bin\Debug\Creating Test Average (3.4).exe
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\bin\Debug\Creating Test Average (3.4).pdb
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating Test Average (3.4).csprojAssemblyReference.cache
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating_Test_Average__3._4_.Form1.resources
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating_Test_Average__3._4_.Properties.Resources.resources
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating Test Average (3.4).csproj.GenerateResource.cache
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating Test Average (3.4).csproj.CoreCompileInputs.cache
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating Test Average (3.4).exe
+E:\Tutorials\Chapter 3\Creating the test average (3.4)\Creating Test Average (3.4)\obj\Debug\Creating Test Average (3.4).pdb
